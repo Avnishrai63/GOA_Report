@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "2tMf9lKIwhc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Avnish.PBLSFT002\\Desktop\\GOA_Report\\GOA_Report\\GOA_Report.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\closedxml\\0.105.1\\closedxml.0.105.1.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\exceldatareader\\3.9.0\\exceldatareader.3.9.0.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\exceldatareader.dataset\\3.9.0\\exceldatareader.dataset.3.9.0.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\exceldatareadert\\0.1.2\\exceldatareadert.0.1.2.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\Avnish.PBLSFT002\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
